@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/828/1*Bu6nl_cRYNoK_pu-YmbBAw.webp)]
+[![MasterHead](https://www.interactiv4.com/wp-content/uploads/2018/06/Header_Post_AutomationTesting.jpg)]
 
 <h1 align="center">Hi 👋, I'm Kiran Jadhav</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
