@@ -8,11 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/@kenny237" target="blank"><img src="https://img.shields.io/twitter/follow/@kenny237?logo=twitter&style=for-the-badge" alt="@kenny237" /></a> </p>
 
-- 🔭 I’m currently working on **INB Automation Project**
-
-- 🌱 I’m currently learning **DSA**
-
-- 💬 Ask me about **Automation Testing , Selenium WebDriver , Java**
 
 - 📫 How to reach me **kiran.jadhav1993@gmail.com**
 
