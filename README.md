@@ -1,8 +1,8 @@
-[![MasterHead](https://tharunvar10.medium.com/automation-testing-selenium-220674720aa4)]
+[![MasterHead](https://miro.medium.com/max/828/1*Bu6nl_cRYNoK_pu-YmbBAw.webp)]
 
 <h1 align="center">Hi 👋, I'm Kiran Jadhav</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiran001&label=Profile%20views&color=0e75b6&style=flat" alt="ikiran001" /> </p>
 
