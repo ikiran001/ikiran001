@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/kiran_jadhav1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kiran_jadhav1993" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ikiran001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikiran001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kiranjadhav1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kiranjadhav1993" height="30" width="40" /></a>
-<a href="https://discord.gg/#5426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5426" height="30" width="40" /></a>
+<a href="https://discord.gg/#5426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ikiran__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
