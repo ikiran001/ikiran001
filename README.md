@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/@kenny237" target="blank"><img src="https://img.shields.io/twitter/follow/@kenny237?logo=twitter&style=for-the-badge" alt="@kenny237" /></a> </p>
 
 
-- 📫 How to reach me **kiran.jadhav1993@gmail.com**
+- 📫 How to reach me **ijkiranp@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/folders/1vM_UoZ1NrQvGnmpitXV-Byvym077hQn7)
 
