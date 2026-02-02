@@ -1,3 +1,10 @@
+<h1 align="center">Kiran Jadhav</h1>
+<h3 align="center">SDET | UI & API Automation | CI/CD</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+scalable+automation+frameworks;Optimizing+CI%2FCD+pipelines+for+quality+releases" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=220&section=header&text=Kiran%20Jadhav&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=SDET%20%7C%20UI%20%26%20API%20Automation%20%7C%20CI%2FCD&descAlignY=65" />
 </p>
