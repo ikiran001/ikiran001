@@ -1,34 +1,56 @@
-[![MasterHead](https://www.interactiv4.com/wp-content/uploads/2018/06/Header_Post_AutomationTesting.jpg)]
+<h1>Hi, I’m Kiran Jadhav 👋</h1>
+<p><strong>SDET | UI & API Automation | CI/CD</strong></p>
 
-<h1 align="center">Hi 👋, I'm Kiran Jadhav</h1>
-<h3 align="center">A passionate Automation Test Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikiran001&label=Profile%20views&color=0e75b6&style=flat" alt="ikiran001" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@kenny237" target="blank"><img src="https://img.shields.io/twitter/follow/@kenny237?logo=twitter&style=for-the-badge" alt="@kenny237" /></a> </p>
-
-
-- 📫 How to reach me **ijkiranp@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/folders/1vM_UoZ1NrQvGnmpitXV-Byvym077hQn7)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@kenny237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kenny237" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kiran-jadhav-981650120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran jadhav" height="30" width="40" /></a>
-<a href="https://instagram.com/ikiran__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikiran__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kiran_jadhav1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kiran_jadhav1993" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ikiran001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ikiran001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kiranjadhav1993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kiranjadhav1993" height="30" width="40" /></a>
-<a href="https://discord.gg/#5426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ikiran__" height="30" width="40" /></a>
+<p>
+I’m an SDET focused on building scalable automation frameworks and reliable CI/CD pipelines for fast, high-quality releases.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h2>✅ What I Do</h2>
+<ul>
+  <li>UI Automation (Selenium)</li>
+  <li>API Automation (Postman)</li>
+  <li>CI/CD (Jenkins)</li>
+  <li>Test Design & Functional Validation</li>
+  <li>Data Structures & OOPs Foundation</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikiran001&show_icons=true&locale=en&layout=compact" alt="ikiran001" /></p>
+<h2>🧰 Tech Stack</h2>
+<p><strong>Languages:</strong> Java, Python (basic), C# (basic)</p>
+<p><strong>Automation:</strong> Selenium, Cucumber</p>
+<p><strong>API Tools:</strong> Postman</p>
+<p><strong>CI/CD:</strong> Jenkins</p>
+<p><strong>OS/Tools:</strong> Linux, Git</p>
+<p><strong>Core CS:</strong> DSA, OOPs</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikiran001&show_icons=true&locale=en" alt="ikiran001" /></p>
+<h2>📌 Impact</h2>
+<ul>
+  <li><em>[Example]</em> Reduced regression time by <strong>XX%</strong> by introducing parallel UI automation</li>
+  <li><em>[Example]</em> Improved defect detection by <strong>YY%</strong> with API automation suite</li>
+  <li><em>[Example]</em> Cut release cycle from <strong>X days to Y days</strong> using Jenkins pipelines</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikiran001&" alt="ikiran001" /></p>
+<h2>🏷️ Badges</h2>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikiran001&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikiran001&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<h2>🔗 Connect with Me</h2>
+<ul>
+  <li>GitHub: <a href="https://github.com/ikiran001">@ikiran001</a></li>
+  <li>LinkedIn: <em>(add your link)</em></li>
+</ul>
